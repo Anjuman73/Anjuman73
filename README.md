@@ -6,7 +6,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Anjuman Ara faiza</h1>
-<h3 align="center">You can call name faiza </h3>
+<h3 align="center">You can call me faiza</h3>
 <p align="center">
 
 
